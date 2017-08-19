@@ -1,0 +1,58 @@
+1503163951a:1:{s:21:"contents/services.htm";a:5:{s:8:"fileName";s:21:"contents/services.htm";s:7:"content";s:1468:"<div class="services-section" id="services">
+	<div class="container">
+		<div class="services-header">
+			<h3><span>[</span> services <span>]</span></h3>
+			<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+		</div>
+		<div class="services-sectiongrids">
+			<div class="col-md-4 services-grid">
+				<img alt="" src="{{'assets/images/img1.png'|theme}}">
+				<h4>webdesign</h4>
+				<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</p>
+			</div>
+			<div class="col-md-4 services-grid">
+				<img alt="" src="{{'assets/images/img2.png'|theme}}">
+				<h4>print design</h4>
+				<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</p>
+			</div>
+			<div class="col-md-4 services-grid">
+				<img alt="" src="{{'assets/images/img3.png'|theme}}">
+				<h4>web development</h4>
+				<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</p>
+			</div>
+			<div class="clearfix"></div>
+			<div class="arrow1">
+				<a class="scroll" href="#work"><img alt="" src="{{'assets/images/arrow1.png'|theme}}"></a>
+			</div>
+		</div>
+	</div>
+</div>
+";s:5:"mtime";i:1503162636;s:6:"markup";s:1466:"<div class="services-section" id="services">
+	<div class="container">
+		<div class="services-header">
+			<h3><span>[</span> services <span>]</span></h3>
+			<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+		</div>
+		<div class="services-sectiongrids">
+			<div class="col-md-4 services-grid">
+				<img alt="" src="{{'assets/images/img1.png'|theme}}">
+				<h4>webdesign</h4>
+				<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</p>
+			</div>
+			<div class="col-md-4 services-grid">
+				<img alt="" src="{{'assets/images/img2.png'|theme}}">
+				<h4>print design</h4>
+				<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</p>
+			</div>
+			<div class="col-md-4 services-grid">
+				<img alt="" src="{{'assets/images/img3.png'|theme}}">
+				<h4>web development</h4>
+				<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</p>
+			</div>
+			<div class="clearfix"></div>
+			<div class="arrow1">
+				<a class="scroll" href="#work"><img alt="" src="{{'assets/images/arrow1.png'|theme}}"></a>
+			</div>
+		</div>
+	</div>
+</div>";s:4:"code";N;}}

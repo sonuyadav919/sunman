@@ -1,0 +1,64 @@
+1503164341a:1:{s:15:"site/footer.htm";a:5:{s:8:"fileName";s:15:"site/footer.htm";s:7:"content";s:2046:"<div class="footer-section" id="contact">
+	<div class="container">
+		<div class="contact-header">
+			<h3><span>[</span> contact <span>]</span></h3>
+			<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+		</div>
+		<div class="social-icon">
+			<a href="#"><i class="icon1"></i></a> <a href="#"><i class="icon2"></i></a> <a href="#"><i class="icon3"></i></a> <a href="#"><i class="icon4"></i></a> <a href="#"><i class="icon5"></i></a> <a href="#"><i class="icon6"></i></a> <a href="#"><i class="icon7"></i></a> <a href="#"><i class="icon8"></i></a>
+		</div>
+		<div class="contact">
+			<div class="col-md-4 contactgrid">
+				<input class="text" onblur="if (this.value == '') {this.value = ' name';}" onfocus="this.value = '';" type="text" value=" name">
+			</div>
+			<div class="col-md-4 contactgrid">
+				<input class="text" onblur="if (this.value == '') {this.value = 'email';}" onfocus="this.value = '';" type="text" value="email">
+			</div>
+			<div class="col-md-4 contactgrid">
+				<input class="text" onblur="if (this.value == '') {this.value = 'phone';}" onfocus="this.value = '';" type="text" value="phone">
+			</div>
+			<div class="col-md-8 contactgrid1">
+				<textarea onblur="if(this.value == '') this.value='Your Message';" onfocus="if(this.value == 'Your Message') this.value='';">Your Message</textarea>
+			</div>
+			<div class="col-md-4 contactgrid2">
+				<input type="button" value="[send message]">
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="footer-bottom">
+			<p>Copyright &copy;2017 All rights Reserved | Template by<a href="http://w3layouts.com" target="target_blank">W3Layouts</a></p>
+		</div><a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 1;"></span></a>
+	</div>
+</div>
+";s:5:"mtime";i:1503163708;s:6:"markup";s:2045:"<div class="footer-section" id="contact">
+	<div class="container">
+		<div class="contact-header">
+			<h3><span>[</span> contact <span>]</span></h3>
+			<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+		</div>
+		<div class="social-icon">
+			<a href="#"><i class="icon1"></i></a> <a href="#"><i class="icon2"></i></a> <a href="#"><i class="icon3"></i></a> <a href="#"><i class="icon4"></i></a> <a href="#"><i class="icon5"></i></a> <a href="#"><i class="icon6"></i></a> <a href="#"><i class="icon7"></i></a> <a href="#"><i class="icon8"></i></a>
+		</div>
+		<div class="contact">
+			<div class="col-md-4 contactgrid">
+				<input class="text" onblur="if (this.value == '') {this.value = ' name';}" onfocus="this.value = '';" type="text" value=" name">
+			</div>
+			<div class="col-md-4 contactgrid">
+				<input class="text" onblur="if (this.value == '') {this.value = 'email';}" onfocus="this.value = '';" type="text" value="email">
+			</div>
+			<div class="col-md-4 contactgrid">
+				<input class="text" onblur="if (this.value == '') {this.value = 'phone';}" onfocus="this.value = '';" type="text" value="phone">
+			</div>
+			<div class="col-md-8 contactgrid1">
+				<textarea onblur="if(this.value == '') this.value='Your Message';" onfocus="if(this.value == 'Your Message') this.value='';">Your Message</textarea>
+			</div>
+			<div class="col-md-4 contactgrid2">
+				<input type="button" value="[send message]">
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="footer-bottom">
+			<p>Copyright &copy;2017 All rights Reserved | Template by<a href="http://w3layouts.com" target="target_blank">W3Layouts</a></p>
+		</div><a href="#" id="toTop" style="display: block;"><span id="toTopHover" style="opacity: 1;"></span></a>
+	</div>
+</div>";s:4:"code";N;}}

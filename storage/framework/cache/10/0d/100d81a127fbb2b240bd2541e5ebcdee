@@ -1,0 +1,126 @@
+1503164261a:1:{s:17:"contents/work.htm";a:5:{s:8:"fileName";s:17:"contents/work.htm";s:7:"content";s:4490:"<div class="works-section" id="work">
+	<div class="works-header">
+		<h3><span>[</span> works <span>]</span></h3>
+		<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+	</div>
+	<div class="portfolio-section-bottom-row" id="portfolio">
+		<div class="container">
+			<ul class="clearfix" id="filters">
+				<li><span class="filter active" data-filter="app card icon web logo1">All</span></li>
+				<li><span class="filter" data-filter="app">Branding</span></li>
+				<li><span class="filter" data-filter="card">Print</span></li>
+				<li><span class="filter" data-filter="icon">Webdesign</span></li>
+				<li><span class="filter" data-filter="logo1">Photography</span></li>
+			</ul>
+			<div id="portfoliolist">
+				<div class="portfolio card mix_all wow bounceIn" data-cat="card" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-1.jpg'}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-1.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio app mix_all wow bounceIn" data-cat="app" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-2.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-2.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio icon mix_all wow bounceIn" data-cat="icon" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-3.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-3.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio app mix_all wow bounceIn" data-cat="app" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-4.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-4.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio card mix_all wow bounceIn" data-cat="card" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-5.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-5.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio card mix_all wow bounceIn" data-cat="card" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-6.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-6.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio icon mix_all wow bounceIn" data-cat="icon" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'images/pic-7.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-7.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio logo1 mix_all wow bounceIn" data-cat="logos" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-8.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-8.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="arrow">
+				<a class="scroll" href="#about"><img alt="" src="{{'assets/images/arrow.png'|theme}}"></a>
+			</div>
+		</div>
+	</div>
+</div>
+";s:5:"mtime";i:1503162522;s:6:"markup";s:4488:"<div class="works-section" id="work">
+	<div class="works-header">
+		<h3><span>[</span> works <span>]</span></h3>
+		<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</p>
+	</div>
+	<div class="portfolio-section-bottom-row" id="portfolio">
+		<div class="container">
+			<ul class="clearfix" id="filters">
+				<li><span class="filter active" data-filter="app card icon web logo1">All</span></li>
+				<li><span class="filter" data-filter="app">Branding</span></li>
+				<li><span class="filter" data-filter="card">Print</span></li>
+				<li><span class="filter" data-filter="icon">Webdesign</span></li>
+				<li><span class="filter" data-filter="logo1">Photography</span></li>
+			</ul>
+			<div id="portfoliolist">
+				<div class="portfolio card mix_all wow bounceIn" data-cat="card" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-1.jpg'}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-1.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio app mix_all wow bounceIn" data-cat="app" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-2.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-2.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio icon mix_all wow bounceIn" data-cat="icon" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-3.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-3.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio app mix_all wow bounceIn" data-cat="app" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-4.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-4.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio card mix_all wow bounceIn" data-cat="card" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-5.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-5.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio card mix_all wow bounceIn" data-cat="card" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-6.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-6.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio icon mix_all wow bounceIn" data-cat="icon" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'images/pic-7.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-7.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="portfolio logo1 mix_all wow bounceIn" data-cat="logos" data-wow-delay="0.4s" style="display: inline-block; opacity: 1;">
+					<div class="portfolio-wrapper grid_box">
+						<a class="swipebox" href="{{'assets/images/pic-8.jpg'|theme}}" title="Image Title"><img alt="" class="img-responsive" src="{{'assets/images/pic-8.jpg'|theme}}"><span class="zoom-icon"></span></a>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="arrow">
+				<a class="scroll" href="#about"><img alt="" src="{{'assets/images/arrow.png'|theme}}"></a>
+			</div>
+		</div>
+	</div>
+</div>";s:4:"code";N;}}

@@ -1,0 +1,149 @@
+1503160551a:1:{s:13:"home/home.htm";a:6:{s:8:"fileName";s:13:"home/home.htm";s:7:"content";s:1559:"<div class="header" id="head">
+      <div class="container">
+         <div class="header-top">
+      		 <div class="logo">
+				<a href="/"><img src="{{ 'assets/images/logo.png'|theme }}" alt=""/></a>
+			 </div>
+
+       <!-- header -->
+       {% partial 'site/header' %}
+       <!-- header end -->
+
+			<div class="clearfix"></div>
+		 </div>
+		  <div class="index-banner">
+       	   <div class="wmuSlider example1">
+			   <div class="wmuSliderWrapper">
+				   <article style="position: absolute; width: 100%; opacity: 0;">
+				   	<div class="banner-wrap">
+				   	       	<div class="banner_center">
+				   		 		<h1>hello world,</h1>
+				   		 		<h2>i am <span>graphic & web designer</span></h2>
+				   		 		<h2>from morocco</h2>
+				   		 		</div>
+				   		 </div>
+					</article>
+				   <article style="position: relative; width: 100%; opacity: 1;">
+				   	   	<div class="banner-wrap">
+				   	      <div class="banner_center">
+				   		 		<h1>Content here,</h1>
+				   		 		<h2>Lorem <span>graphic &  designer</span></h2>
+				   		 		<h2>Contrary</h2>
+				   		 		</div>
+				   		  </div>
+				   </article>
+				   <article style="position: absolute; width: 100%; opacity: 0;">
+				   	  	<div class="banner-wrap">
+				   	       <div class="banner_center">
+				   		 		<h1>Lorem Ipsum ,</h1>
+				   		 		<h2>Contrary to <span>&  designer</span></h2>
+				   		 		<h2>reproduced below</h2>
+				   		 		</div>
+				   		 </div>
+					 </article>
+				 </div>
+
+            </div>
+
+      </div>
+	 </div>
+	</div>
+";s:5:"mtime";i:1503159946;s:6:"markup";s:1557:"<div class="header" id="head">
+      <div class="container">
+         <div class="header-top">
+      		 <div class="logo">
+				<a href="/"><img src="{{ 'assets/images/logo.png'|theme }}" alt=""/></a>
+			 </div>
+
+       <!-- header -->
+       {% partial 'site/header' %}
+       <!-- header end -->
+
+			<div class="clearfix"></div>
+		 </div>
+		  <div class="index-banner">
+       	   <div class="wmuSlider example1">
+			   <div class="wmuSliderWrapper">
+				   <article style="position: absolute; width: 100%; opacity: 0;">
+				   	<div class="banner-wrap">
+				   	       	<div class="banner_center">
+				   		 		<h1>hello world,</h1>
+				   		 		<h2>i am <span>graphic & web designer</span></h2>
+				   		 		<h2>from morocco</h2>
+				   		 		</div>
+				   		 </div>
+					</article>
+				   <article style="position: relative; width: 100%; opacity: 1;">
+				   	   	<div class="banner-wrap">
+				   	      <div class="banner_center">
+				   		 		<h1>Content here,</h1>
+				   		 		<h2>Lorem <span>graphic &  designer</span></h2>
+				   		 		<h2>Contrary</h2>
+				   		 		</div>
+				   		  </div>
+				   </article>
+				   <article style="position: absolute; width: 100%; opacity: 0;">
+				   	  	<div class="banner-wrap">
+				   	       <div class="banner_center">
+				   		 		<h1>Lorem Ipsum ,</h1>
+				   		 		<h2>Contrary to <span>&  designer</span></h2>
+				   		 		<h2>reproduced below</h2>
+				   		 		</div>
+				   		 </div>
+					 </article>
+				 </div>
+
+            </div>
+
+      </div>
+	 </div>
+	</div>";s:4:"code";N;s:12:"parsedMarkup";s:1557:"<div class="header" id="head">
+      <div class="container">
+         <div class="header-top">
+      		 <div class="logo">
+				<a href="/"><img src="{{ 'assets/images/logo.png'|theme }}" alt=""/></a>
+			 </div>
+
+       <!-- header -->
+       {% partial 'site/header' %}
+       <!-- header end -->
+
+			<div class="clearfix"></div>
+		 </div>
+		  <div class="index-banner">
+       	   <div class="wmuSlider example1">
+			   <div class="wmuSliderWrapper">
+				   <article style="position: absolute; width: 100%; opacity: 0;">
+				   	<div class="banner-wrap">
+				   	       	<div class="banner_center">
+				   		 		<h1>hello world,</h1>
+				   		 		<h2>i am <span>graphic & web designer</span></h2>
+				   		 		<h2>from morocco</h2>
+				   		 		</div>
+				   		 </div>
+					</article>
+				   <article style="position: relative; width: 100%; opacity: 1;">
+				   	   	<div class="banner-wrap">
+				   	      <div class="banner_center">
+				   		 		<h1>Content here,</h1>
+				   		 		<h2>Lorem <span>graphic &  designer</span></h2>
+				   		 		<h2>Contrary</h2>
+				   		 		</div>
+				   		  </div>
+				   </article>
+				   <article style="position: absolute; width: 100%; opacity: 0;">
+				   	  	<div class="banner-wrap">
+				   	       <div class="banner_center">
+				   		 		<h1>Lorem Ipsum ,</h1>
+				   		 		<h2>Contrary to <span>&  designer</span></h2>
+				   		 		<h2>reproduced below</h2>
+				   		 		</div>
+				   		 </div>
+					 </article>
+				 </div>
+
+            </div>
+
+      </div>
+	 </div>
+	</div>";}}
