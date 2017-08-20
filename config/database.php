@@ -54,11 +54,11 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => 'localhost',
+            'host'      => env('DB_HOST'),
             'port'      => 3306,
-            'database'  => 'sunman',
-            'username'  => 'root',
-            'password'  => '',
+            'database'  => env('DB_NAME'),
+            'username'  => env('DB_USER'),
+            'password'  => env('DB_PASSWORD'),
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
