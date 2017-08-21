@@ -2,3 +2,7 @@
 *
 .log
 storage/framework/cache
+storage/framework/cache
+storage/cms/cache
+storage/framework
+storage/cms/twig
